@@ -15,3 +15,9 @@
 
 ![Task 2](images/task2_terminal.png)
 
+
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
+из этого репозитория.
+
+![Task 3](images/task3_terminal.png)
+
