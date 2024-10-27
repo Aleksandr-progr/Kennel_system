@@ -12,3 +12,6 @@
 ![Task 1](images/task1_terminal.png)
 
 2. Создать директорию, переместить файл туда.
+
+![Task 2](images/task2_terminal.png)
+
